@@ -1,0 +1,12 @@
+{
+  "package_id": "org.orbit-os.examples.spi",
+  "name": "SPI example",
+  "version": "1.0.0",
+  "description": "List the SPI devices, read the configuration and run a full-duplex transfer",
+  "entry_point": "spi.jar",
+  "type": "jar",
+  "permissions": [
+    "SystemService/*",
+    "SpiService/*"
+  ]
+}

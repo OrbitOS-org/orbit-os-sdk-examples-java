@@ -1,0 +1,12 @@
+{
+  "package_id": "org.orbit-os.examples.eth_status",
+  "name": "Ethernet status example",
+  "version": "1.0.0",
+  "description": "List the Ethernet interfaces with link state and IP configuration",
+  "entry_point": "eth_status.jar",
+  "type": "jar",
+  "permissions": [
+    "SystemService/*",
+    "EthernetService/*"
+  ]
+}

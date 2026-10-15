@@ -1,0 +1,7 @@
+{
+  "language": "java",
+  "name": "spi",
+  "appPath": "apps/spi",
+  "certsDir": "certs/grpc",
+  "sdkVersion": "v26.0.3"
+}

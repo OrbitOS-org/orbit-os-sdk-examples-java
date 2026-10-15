@@ -1,0 +1,12 @@
+{
+  "package_id": "org.orbit-os.examples.i2c",
+  "name": "I2C example",
+  "version": "1.0.0",
+  "description": "List the I2C buses, read the configuration and scan for devices",
+  "entry_point": "i2c.jar",
+  "type": "jar",
+  "permissions": [
+    "SystemService/*",
+    "I2CService/*"
+  ]
+}

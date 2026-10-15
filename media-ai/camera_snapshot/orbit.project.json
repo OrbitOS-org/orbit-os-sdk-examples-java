@@ -1,0 +1,7 @@
+{
+  "language": "java",
+  "name": "camera_snapshot",
+  "appPath": "apps/camera_snapshot",
+  "certsDir": "certs/grpc",
+  "sdkVersion": "v26.0.3"
+}

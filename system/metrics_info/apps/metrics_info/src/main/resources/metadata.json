@@ -1,0 +1,11 @@
+{
+  "package_id": "org.orbit-os.examples.metrics_info",
+  "name": "System metrics example",
+  "version": "1.0.0",
+  "description": "Read one snapshot of CPU, memory, disk and temperature metrics",
+  "entry_point": "metrics_info.jar",
+  "type": "jar",
+  "permissions": [
+    "SystemService/*"
+  ]
+}

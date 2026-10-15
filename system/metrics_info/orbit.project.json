@@ -1,0 +1,7 @@
+{
+  "language": "java",
+  "name": "metrics_info",
+  "appPath": "apps/metrics_info",
+  "certsDir": "certs/grpc",
+  "sdkVersion": "v26.0.3"
+}

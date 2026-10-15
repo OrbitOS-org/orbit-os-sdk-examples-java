@@ -1,0 +1,12 @@
+{
+  "package_id": "org.orbit-os.examples.hello_web",
+  "name": "Hello web",
+  "version": "1.0.0",
+  "description": "Serve a web page through the Orbit OS Launcher, behind the device login",
+  "entry_point": "hello_web.jar",
+  "type": "jar",
+  "permissions": [
+    "SystemService/*",
+    "AppHubService/*"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "language": "java",
+  "name": "gpio_button_led",
+  "appPath": "apps/gpio_button_led",
+  "certsDir": "certs/grpc",
+  "sdkVersion": "v26.0.3"
+}

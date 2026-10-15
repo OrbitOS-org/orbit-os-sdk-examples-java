@@ -1,0 +1,12 @@
+{
+  "package_id": "org.orbit-os.examples.wifi_scan",
+  "name": "WiFi scan example",
+  "version": "1.0.0",
+  "description": "List the WiFi interfaces and scan for networks",
+  "entry_point": "wifi_scan.jar",
+  "type": "jar",
+  "permissions": [
+    "SystemService/*",
+    "WiFiService/*"
+  ]
+}

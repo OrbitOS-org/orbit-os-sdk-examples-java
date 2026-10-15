@@ -1,0 +1,7 @@
+{
+  "language": "java",
+  "name": "eth_status",
+  "appPath": "apps/eth_status",
+  "certsDir": "certs/grpc",
+  "sdkVersion": "v26.0.3"
+}

@@ -1,0 +1,7 @@
+{
+  "language": "java",
+  "name": "gpio_input",
+  "appPath": "apps/gpio_input",
+  "certsDir": "certs/grpc",
+  "sdkVersion": "v26.0.3"
+}

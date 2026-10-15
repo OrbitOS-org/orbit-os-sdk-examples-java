@@ -1,0 +1,7 @@
+{
+  "language": "java",
+  "name": "uart",
+  "appPath": "apps/uart",
+  "certsDir": "certs/grpc",
+  "sdkVersion": "v26.0.3"
+}

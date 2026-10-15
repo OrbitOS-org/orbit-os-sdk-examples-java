@@ -1,0 +1,12 @@
+{
+  "package_id": "org.orbit-os.examples.uart",
+  "name": "UART example",
+  "version": "1.0.0",
+  "description": "Open a serial port and print what it receives",
+  "entry_point": "uart.jar",
+  "type": "jar",
+  "permissions": [
+    "SystemService/*",
+    "UartService/*"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "language": "java",
+  "name": "i2c",
+  "appPath": "apps/i2c",
+  "certsDir": "certs/grpc",
+  "sdkVersion": "v26.0.3"
+}

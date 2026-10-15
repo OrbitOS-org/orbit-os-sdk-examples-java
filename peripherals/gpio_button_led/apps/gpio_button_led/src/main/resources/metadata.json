@@ -1,0 +1,12 @@
+{
+  "package_id": "org.orbit-os.examples.gpio_button_led",
+  "name": "GPIO button and LED",
+  "version": "1.0.0",
+  "description": "Read a button on an input pin and drive an LED on an output pin with it",
+  "entry_point": "gpio_button_led.jar",
+  "type": "jar",
+  "permissions": [
+    "SystemService/*",
+    "GpioService/*"
+  ]
+}

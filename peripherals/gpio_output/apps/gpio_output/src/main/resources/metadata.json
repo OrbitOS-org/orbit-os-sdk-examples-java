@@ -1,0 +1,12 @@
+{
+  "package_id": "org.orbit-os.examples.gpio_output",
+  "name": "GPIO output example",
+  "version": "1.0.0",
+  "description": "List the GPIO lines and blink the first one",
+  "entry_point": "gpio_output.jar",
+  "type": "jar",
+  "permissions": [
+    "SystemService/*",
+    "GpioService/*"
+  ]
+}

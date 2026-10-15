@@ -1,0 +1,12 @@
+{
+  "package_id": "org.orbit-os.examples.pwm",
+  "name": "PWM example",
+  "version": "1.0.0",
+  "description": "List the PWM channels and set frequency and duty cycle on the first one",
+  "entry_point": "pwm.jar",
+  "type": "jar",
+  "permissions": [
+    "SystemService/*",
+    "PwmService/*"
+  ]
+}

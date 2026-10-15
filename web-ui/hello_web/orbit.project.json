@@ -1,0 +1,7 @@
+{
+  "language": "java",
+  "name": "hello_web",
+  "appPath": "apps/hello_web",
+  "certsDir": "certs/grpc",
+  "sdkVersion": "v26.0.3"
+}

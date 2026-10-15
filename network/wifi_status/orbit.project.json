@@ -1,0 +1,7 @@
+{
+  "language": "java",
+  "name": "wifi_status",
+  "appPath": "apps/wifi_status",
+  "certsDir": "certs/grpc",
+  "sdkVersion": "v26.0.3"
+}

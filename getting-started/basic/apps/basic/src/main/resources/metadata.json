@@ -1,0 +1,11 @@
+{
+  "package_id": "org.orbit-os.examples.basic",
+  "name": "Basic example",
+  "version": "1.0.0",
+  "description": "Connect to the device and read system information: API version, device identity, hardware, OS",
+  "entry_point": "basic.jar",
+  "type": "jar",
+  "permissions": [
+    "SystemService/*"
+  ]
+}

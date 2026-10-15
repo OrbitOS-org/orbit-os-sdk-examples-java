@@ -1,0 +1,11 @@
+{
+  "package_id": "org.orbit-os.examples.template",
+  "name": "App template",
+  "version": "0.1.0",
+  "description": "Orbit OS Java SDK template app",
+  "entry_point": "template.jar",
+  "type": "jar",
+  "permissions": [
+    "SystemService/*"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "package_id": "org.orbit-os.examples.pwm_fade",
+  "name": "PWM fade",
+  "version": "1.0.0",
+  "description": "Raise and lower the duty cycle step by step, like an LED fading in and out, then stop the output",
+  "entry_point": "pwm_fade.jar",
+  "type": "jar",
+  "permissions": [
+    "SystemService/*",
+    "PwmService/*"
+  ]
+}

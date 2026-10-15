@@ -1,0 +1,12 @@
+{
+  "package_id": "org.orbit-os.examples.wifi_status",
+  "name": "WiFi status",
+  "version": "1.0.0",
+  "description": "Show, for each WiFi interface, whether it is connected, its mode and the details of the connection",
+  "entry_point": "wifi_status.jar",
+  "type": "jar",
+  "permissions": [
+    "SystemService/*",
+    "WiFiService/*"
+  ]
+}
