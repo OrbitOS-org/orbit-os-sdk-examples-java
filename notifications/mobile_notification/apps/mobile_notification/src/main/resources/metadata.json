@@ -1,0 +1,11 @@
+{
+  "package_id": "org.orbit-os.examples.mobile_notification",
+  "name": "Mobile Notification",
+  "version": "1.0.0",
+  "description": "Send a push notification to the phones linked to the device owner's account",
+  "entry_point": "mobile_notification.jar",
+  "type": "jar",
+  "permissions": [
+    "MobileNotificationService/Send"
+  ]
+}

@@ -3,5 +3,5 @@
   "name": "pwm_fade",
   "appPath": "apps/pwm_fade",
   "certsDir": "certs/grpc",
-  "sdkVersion": "v26.0.3"
+  "sdkVersion": "v26.1.0"
 }

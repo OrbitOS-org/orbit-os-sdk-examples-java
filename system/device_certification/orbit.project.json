@@ -1,0 +1,7 @@
+{
+  "language": "java",
+  "name": "device_certification",
+  "appPath": "apps/device_certification",
+  "certsDir": "certs/grpc",
+  "sdkVersion": "v26.1.0"
+}

@@ -1,0 +1,11 @@
+{
+  "package_id": "org.orbit-os.examples.device_certification",
+  "name": "Device Certification",
+  "version": "1.0.0",
+  "description": "Check whether the app runs on certified hardware and read the certification serial",
+  "entry_point": "device_certification.jar",
+  "type": "jar",
+  "permissions": [
+    "SystemService/*"
+  ]
+}

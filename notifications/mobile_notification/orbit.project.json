@@ -1,0 +1,7 @@
+{
+  "language": "java",
+  "name": "mobile_notification",
+  "appPath": "apps/mobile_notification",
+  "certsDir": "certs/grpc",
+  "sdkVersion": "v26.1.0"
+}
